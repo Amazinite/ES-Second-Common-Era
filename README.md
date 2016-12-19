@@ -2,7 +2,7 @@
 Coming eventually
 
 ## What is this?
-ES Second Common Era is (going to be) a plugin for [Endless Sky](https://github.com/endless-sky/endless-sky) that takes place thousands of years after the events of the vanilla game.
+ES Second Common Era is (going to be) a plugin for [Endless Sky](https://github.com/endless-sky/endless-sky) that takes place thousands of years after the events of the vanilla game. (Exact time not known. Ambiguous for the sake of creative freedom).
 The player is no longer a human, but an individual of a new race of aliens that has only recently discovered the secrets to space travel. For players who are familiar with the vanill game, things in the Milky Way will feel very different.
 The map of this 2nd CE Milky Way will use all the same systems as the vanilla game, as well as the systems of a few big plugins (Shields Up, Enigma Corp, Adamas Project, and The Eternals). Other than the positions being the same (and the contents of the systems being mostly the same), names and links will be all changed.
 
@@ -14,7 +14,7 @@ Now this part will be spoilers as to the situation of all the races in the Milky
 * **Korath**: The Korath have returned to greatness and have rebuilt their society, managing to reach Tier 2.5 status in the mean time. As such, the Drak have destroyed the nano-bots as there is no longer a need to keep them around in order to remember the Korath by.
 * **Coalition**: Given that we know little of the Coalition right now, I am not sure where they will come into play in this new age.
 * **Quarg and Drak**: The Quarg and the Drak are the same as always. Quarg ringworlds will all be in the same place and the Drak will still be hanging around, enforcing their silly laws.
-* **Pug and Wanderers**: As far as can be seen to the player and to the species that the player may encounter, the Pug have not been seen in the Milky Way for over 10 millennia. But interestingly, the Wanderers are still in the Milky Way, although their society is in shambles and they are hanging on to survive. The worlds that the Wanderers are watching over have been healed for hundreds upon hundreds of years, but the Eye has not opened, leading to hysteria among the Wanderers.
+* **Pug and Wanderers**: As far as can be seen to the player and to the species that the player may encounter, the Pug have not been seen in the Milky Way for many millennia. But interestingly, the Wanderers are still in the Milky Way, although their society is in shambles and they are hanging on to survive. The worlds that the Wanderers are watching over have been healed for a few thousand years, but the Eye has not opened (this would be the longest time between Eye openings by a long time), leading to hysteria among the Wanderers.
 
 ## But who is the player?
 The player is a member of an alien race known as the Gnuins. This race has only been a multi-system species for 218 years, and their current calendar starts on the day of their first hyperdrive activation.
